@@ -1,0 +1,14 @@
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\bin\Debug\net6.0\FactorialOfLargeNumbers.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\bin\Debug\net6.0\FactorialOfLargeNumbers.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\bin\Debug\net6.0\FactorialOfLargeNumbers.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\bin\Debug\net6.0\FactorialOfLargeNumbers.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\bin\Debug\net6.0\FactorialOfLargeNumbers.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\refint\FactorialOfLargeNumbers.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\FactorialOfLargeNumbers.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfLargeNumbers\obj\Debug\net6.0\ref\FactorialOfLargeNumbers.dll

@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\refint\CheckPrimeNumber.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CheckPrimeNumber\obj\Debug\net6.0\ref\CheckPrimeNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\refint\CheckPrimeNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CheckPrimeNumber\obj\Debug\net6.0\ref\CheckPrimeNumber.dll

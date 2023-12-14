@@ -1,0 +1,22 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\bin\Debug\net6.0\ReverseAString.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\bin\Debug\net6.0\ReverseAString.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\bin\Debug\net6.0\ReverseAString.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\bin\Debug\net6.0\ReverseAString.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\bin\Debug\net6.0\ReverseAString.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\refint\ReverseAString.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ReverseAString.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\ReverseAString\obj\Debug\net6.0\ref\ReverseAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\ReverseAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\refint\ReverseAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\ReverseAString\obj\Debug\net6.0\ReverseAString.pdb

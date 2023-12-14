@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll

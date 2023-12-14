@@ -1,0 +1,14 @@
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\bin\Debug\net6.0\StackImplementation.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\bin\Debug\net6.0\StackImplementation.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\bin\Debug\net6.0\StackImplementation.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\bin\Debug\net6.0\StackImplementation.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\bin\Debug\net6.0\StackImplementation.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\refint\StackImplementation.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\StackImplementation.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\StackImplementation\obj\Debug\net6.0\ref\StackImplementation.dll

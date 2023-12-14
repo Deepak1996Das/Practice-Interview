@@ -1,0 +1,36 @@
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.exe
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.deps.json
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.runtimeconfig.json
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.dll
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.pdb
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Interview practice\DeepakPractice\InterfaceDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.CopyComplete
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.dll
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\refint\InterfaceDemo.dll
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.pdb
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.genruntimeconfig.cache
+E:\Interview practice\DeepakPractice\InterfaceDemo\obj\Debug\net6.0\ref\InterfaceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.exe
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\InterfaceDemo.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.AssemblyReference.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.csproj.CopyComplete
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\refint\InterfaceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\InterfaceDemo.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InterfaceDemo\obj\Debug\net6.0\ref\InterfaceDemo.dll

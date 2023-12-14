@@ -1,0 +1,119 @@
+==================================================================================
+                         Union And Union all
+==================================================================================
+Both the Union and union all combines col1 from tableA with col1 from tableB and returns  a single column.
+
+There are one difference between them
+1.Union remove deuplicate values from the final result but union all returns all values with duplicate
+
+Some rules
+1. you mast me select same number of colum from two table
+2.Datatypes of colums are same 
+
+
+
+
+
+
+========================================================================================
+                              Intersect Operator
+========================================================================================
+if we want common rows from tow colum from two different table ,then we go for Intersect Operator
+
+
+
+
+
+==================================================================================
+                           Where Clause
+===================================================================================
+(if we want data from a table with some condition ,then we go for where clause)
+            
+               Syntex:- select col1,clo2
+                        from tableName
+                        where col1='Deepak'
+ 
+
+
+
+
+
+
+=====================================================================================
+                                   Case Clause
+=====================================================================================
+
+
+
+
+
+
+                         
+==========================================================================
+                           DISTINCT Statement
+==========================================================================
+(The SELECT DISTINCT statement is used to return only unique (different) values.)
+
+             Syntex:- SELECT DISTINCT column1, column2, ...
+                      FROM table_name;
+
+Some times we want distinct data from from a table.At that time we go for distinct keywords.
+
+
+
+                          
+===========================================================================
+                                  Joins
+===========================================================================
+(Joins basically we use to get data from different tables according to there relatonship between them.)
+There are mainly four types of join:- left outer join,Reght outer join,full outer join,inner join
+
+
+1.Left Outer Join: If we want all the records from left
+                   table and only matching records from right table then
+                   will use left outer join/left join.
+
+                 Syntex:- Select tA.clo1,tB.col2
+                          from table1 tA
+                               left join
+                               table2 tB
+                               on tA.col1=tB.col2
+            
+
+
+
+2.Right Outer Join: If we want to display all the records
+                  from right table and only matching records from left
+                  table then will right outer join/right join.
+
+
+
+3.Full Outer Join: If we want to display all the records
+                 from both the tables then will use full outer join.
+
+
+
+4.Inner Join: If we want only the matching records from
+            both the tables then will use Inner join/Simple join.
+
+            Syntex:-select T1.col1,T2.col2
+                    from Table1 T1
+                         Inner Join
+                         Table2 T2
+                    on  T1.col1=T2.cal2
+
+
+
+
+#  Some other types of join:-
+
+      1. Inplicit join:- This type of join we do not use any join key words
+
+                syntex:- Select col1,col2
+                         from table1,table2
+                         where condtion.
+
+      2. Cross Join :- this type of join ,takes one row from a tableA and joins with all rows of tableB and this process going on till end.
+                   
+               Syntex:-  select * from Table1 cross join Table2
+

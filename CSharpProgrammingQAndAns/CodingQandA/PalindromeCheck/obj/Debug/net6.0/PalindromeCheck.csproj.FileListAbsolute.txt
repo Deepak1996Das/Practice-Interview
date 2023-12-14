@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\refint\PalindromeCheck.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\PalindromeCheck\obj\Debug\net6.0\ref\PalindromeCheck.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\bin\Debug\net6.0\PalindromeCheck.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\refint\PalindromeCheck.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\PalindromeCheck.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\PalindromeCheck\obj\Debug\net6.0\ref\PalindromeCheck.dll

@@ -1,0 +1,14 @@
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\bin\Debug\net6.0\Serialize and Deserialize Binary Tree.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\bin\Debug\net6.0\Serialize and Deserialize Binary Tree.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\bin\Debug\net6.0\Serialize and Deserialize Binary Tree.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\bin\Debug\net6.0\Serialize and Deserialize Binary Tree.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\bin\Debug\net6.0\Serialize and Deserialize Binary Tree.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\refint\Serialize and Deserialize Binary Tree.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\Serialize and Deserialize Binary Tree.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\Serialize and Deserialize Binary Tree\obj\Debug\net6.0\ref\Serialize and Deserialize Binary Tree.dll

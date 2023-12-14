@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\refint\FactorialOfaNumber.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\FactorialOfaNumber\obj\Debug\net6.0\ref\FactorialOfaNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\bin\Debug\net6.0\FactorialOfaNumber.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\refint\FactorialOfaNumber.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\FactorialOfaNumber.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FactorialOfaNumber\obj\Debug\net6.0\ref\FactorialOfaNumber.dll

@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\refint\SortingAnArray.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\SortingAnArray\obj\Debug\net6.0\ref\SortingAnArray.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\bin\Debug\net6.0\SortingAnArray.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\refint\SortingAnArray.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\SortingAnArray.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\SortingAnArray\obj\Debug\net6.0\ref\SortingAnArray.dll

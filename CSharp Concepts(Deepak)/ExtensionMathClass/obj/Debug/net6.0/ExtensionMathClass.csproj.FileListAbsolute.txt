@@ -1,0 +1,23 @@
+E:\Interview practice\DeepakPractice\ExtensionMathClass\bin\Debug\net6.0\ExtensionMathClass.deps.json
+E:\Interview practice\DeepakPractice\ExtensionMathClass\bin\Debug\net6.0\ExtensionMathClass.dll
+E:\Interview practice\DeepakPractice\ExtensionMathClass\bin\Debug\net6.0\ExtensionMathClass.pdb
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.dll
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\refint\ExtensionMathClass.dll
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.pdb
+E:\Interview practice\DeepakPractice\ExtensionMathClass\obj\Debug\net6.0\ref\ExtensionMathClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\bin\Debug\net6.0\ExtensionMathClass.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\bin\Debug\net6.0\ExtensionMathClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\bin\Debug\net6.0\ExtensionMathClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\refint\ExtensionMathClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ExtensionMathClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMathClass\obj\Debug\net6.0\ref\ExtensionMathClass.dll

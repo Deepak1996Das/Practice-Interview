@@ -1,0 +1,54 @@
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMathClass.dll
+E:\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMathClass.pdb
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CopyComplete
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+E:\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMathClass.dll
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\bin\Debug\net6.0\ExtensionMathClass.pdb
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CopyComplete
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+D:\Deepak\Interview practice\DeepakPractice\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMathClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\bin\Debug\net6.0\ExtensionMathClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CopyComplete
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VirtualMethod/1.0.0": {
+        "dependencies": {
+          "ExtensionMathClass": "1.0.0.0"
+        },
+        "runtime": {
+          "VirtualMethod.dll": {}
+        }
+      },
+      "ExtensionMathClass/1.0.0.0": {
+        "runtime": {
+          "ExtensionMathClass.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirtualMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionMathClass/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

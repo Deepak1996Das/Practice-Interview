@@ -1,0 +1,36 @@
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\DependencyInjection.exe
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\DependencyInjection.deps.json
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\DependencyInjection.runtimeconfig.json
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\DependencyInjection.dll
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\DependencyInjection.pdb
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Interview practice\DeepakPractice\DependencyInjection\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CopyComplete
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.dll
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\refint\DependencyInjection.dll
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.pdb
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\DependencyInjection.genruntimeconfig.cache
+E:\Interview practice\DeepakPractice\DependencyInjection\obj\Debug\net6.0\ref\DependencyInjection.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\DependencyInjection.exe
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\DependencyInjection.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\DependencyInjection.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\DependencyInjection.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\DependencyInjection.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.AssemblyReference.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.csproj.CopyComplete
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\refint\DependencyInjection.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\DependencyInjection.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\DependencyInjection\obj\Debug\net6.0\ref\DependencyInjection.dll

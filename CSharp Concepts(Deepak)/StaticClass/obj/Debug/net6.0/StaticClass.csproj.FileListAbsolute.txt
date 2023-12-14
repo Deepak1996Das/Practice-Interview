@@ -1,0 +1,29 @@
+E:\Interview practice\DeepakPractice\StaticClass\bin\Debug\net6.0\StaticClass.exe
+E:\Interview practice\DeepakPractice\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+E:\Interview practice\DeepakPractice\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+E:\Interview practice\DeepakPractice\StaticClass\bin\Debug\net6.0\StaticClass.dll
+E:\Interview practice\DeepakPractice\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.dll
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+E:\Interview practice\DeepakPractice\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\bin\Debug\net6.0\StaticClass.exe
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\bin\Debug\net6.0\StaticClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

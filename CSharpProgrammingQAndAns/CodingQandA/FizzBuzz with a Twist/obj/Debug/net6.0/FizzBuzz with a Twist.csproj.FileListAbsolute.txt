@@ -1,0 +1,14 @@
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\bin\Debug\net6.0\FizzBuzz with a Twist.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\bin\Debug\net6.0\FizzBuzz with a Twist.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\bin\Debug\net6.0\FizzBuzz with a Twist.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\bin\Debug\net6.0\FizzBuzz with a Twist.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\bin\Debug\net6.0\FizzBuzz with a Twist.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\refint\FizzBuzz with a Twist.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\FizzBuzz with a Twist.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\FizzBuzz with a Twist\obj\Debug\net6.0\ref\FizzBuzz with a Twist.dll

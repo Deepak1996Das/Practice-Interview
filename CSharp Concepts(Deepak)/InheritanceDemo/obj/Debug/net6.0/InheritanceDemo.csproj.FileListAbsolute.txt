@@ -1,0 +1,29 @@
+E:\Interview practice\DeepakPractice\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+E:\Interview practice\DeepakPractice\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+E:\Interview practice\DeepakPractice\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+E:\Interview practice\DeepakPractice\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+E:\Interview practice\DeepakPractice\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+E:\Interview practice\DeepakPractice\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll

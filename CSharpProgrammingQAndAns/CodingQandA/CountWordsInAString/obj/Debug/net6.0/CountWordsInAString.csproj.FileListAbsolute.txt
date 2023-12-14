@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\refint\CountWordsInAString.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CountWordsInAString\obj\Debug\net6.0\ref\CountWordsInAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\bin\Debug\net6.0\CountWordsInAString.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\refint\CountWordsInAString.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\CountWordsInAString.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CountWordsInAString\obj\Debug\net6.0\ref\CountWordsInAString.dll

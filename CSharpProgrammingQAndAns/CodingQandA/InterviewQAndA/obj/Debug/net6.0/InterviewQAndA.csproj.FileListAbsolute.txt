@@ -1,0 +1,44 @@
+G:\C#\InterviewQAndA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.exe
+G:\C#\InterviewQAndA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.deps.json
+G:\C#\InterviewQAndA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.runtimeconfig.json
+G:\C#\InterviewQAndA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.dll
+G:\C#\InterviewQAndA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.pdb
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.csproj.AssemblyReference.cache
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.AssemblyInfoInputs.cache
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.AssemblyInfo.cs
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.csproj.CoreCompileInputs.cache
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.dll
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\refint\InterviewQAndA.dll
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.pdb
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.genruntimeconfig.cache
+G:\C#\InterviewQAndA\InterviewQAndA\obj\Debug\net6.0\ref\InterviewQAndA.dll
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.exe
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.deps.json
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.runtimeconfig.json
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.dll
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.pdb
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.csproj.AssemblyReference.cache
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.AssemblyInfoInputs.cache
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.AssemblyInfo.cs
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.csproj.CoreCompileInputs.cache
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.dll
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\refint\InterviewQAndA.dll
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.pdb
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.genruntimeconfig.cache
+E:\ITWorld\Concepts and  Questions\CSharp\CodingQandA\InterviewQAndA\obj\Debug\net6.0\ref\InterviewQAndA.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\bin\Debug\net6.0\InterviewQAndA.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\refint\InterviewQAndA.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\InterviewQAndA.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\InterviewQAndA\obj\Debug\net6.0\ref\InterviewQAndA.dll

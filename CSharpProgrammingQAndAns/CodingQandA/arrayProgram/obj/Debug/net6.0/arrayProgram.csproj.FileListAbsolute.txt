@@ -1,0 +1,14 @@
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\bin\Debug\net6.0\arrayProgram.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\bin\Debug\net6.0\arrayProgram.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\bin\Debug\net6.0\arrayProgram.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\bin\Debug\net6.0\arrayProgram.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\bin\Debug\net6.0\arrayProgram.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\refint\arrayProgram.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\arrayProgram.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\arrayProgram\obj\Debug\net6.0\ref\arrayProgram.dll

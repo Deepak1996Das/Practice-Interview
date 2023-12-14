@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\refint\CalculateAverage.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\CalculateAverage\obj\Debug\net6.0\ref\CalculateAverage.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\bin\Debug\net6.0\CalculateAverage.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\refint\CalculateAverage.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\CalculateAverage.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\CalculateAverage\obj\Debug\net6.0\ref\CalculateAverage.dll

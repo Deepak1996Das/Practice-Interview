@@ -1,0 +1,29 @@
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.exe
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.deps.json
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.runtimeconfig.json
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.csproj.AssemblyReference.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.AssemblyInfoInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.AssemblyInfo.cs
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.csproj.CoreCompileInputs.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\refint\RemoveAStringFromASentence.dll
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.pdb
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.genruntimeconfig.cache
+E:\C#\Interview Code Q And A\InterviewQAndA\RemoveAStringFromASentence\obj\Debug\net6.0\ref\RemoveAStringFromASentence.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.exe
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.deps.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\bin\Debug\net6.0\RemoveAStringFromASentence.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\refint\RemoveAStringFromASentence.dll
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.pdb
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\RemoveAStringFromASentence.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\ProgrammingQAndAns\CodingQandA\RemoveAStringFromASentence\obj\Debug\net6.0\ref\RemoveAStringFromASentence.dll

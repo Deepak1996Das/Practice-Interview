@@ -1,0 +1,29 @@
+E:\Interview practice\DeepakPractice\SealdClass\bin\Debug\net6.0\SealdClass.exe
+E:\Interview practice\DeepakPractice\SealdClass\bin\Debug\net6.0\SealdClass.deps.json
+E:\Interview practice\DeepakPractice\SealdClass\bin\Debug\net6.0\SealdClass.runtimeconfig.json
+E:\Interview practice\DeepakPractice\SealdClass\bin\Debug\net6.0\SealdClass.dll
+E:\Interview practice\DeepakPractice\SealdClass\bin\Debug\net6.0\SealdClass.pdb
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.csproj.AssemblyReference.cache
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.AssemblyInfoInputs.cache
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.AssemblyInfo.cs
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.csproj.CoreCompileInputs.cache
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.dll
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\refint\SealdClass.dll
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.pdb
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\SealdClass.genruntimeconfig.cache
+E:\Interview practice\DeepakPractice\SealdClass\obj\Debug\net6.0\ref\SealdClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\bin\Debug\net6.0\SealdClass.exe
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\bin\Debug\net6.0\SealdClass.deps.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\bin\Debug\net6.0\SealdClass.runtimeconfig.json
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\bin\Debug\net6.0\SealdClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\bin\Debug\net6.0\SealdClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.AssemblyInfoInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.AssemblyInfo.cs
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.csproj.CoreCompileInputs.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\refint\SealdClass.dll
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.pdb
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\SealdClass.genruntimeconfig.cache
+D:\Deepak kumar\Deepak\Interview practice\CSharp Concepts(Deepak)\SealdClass\obj\Debug\net6.0\ref\SealdClass.dll

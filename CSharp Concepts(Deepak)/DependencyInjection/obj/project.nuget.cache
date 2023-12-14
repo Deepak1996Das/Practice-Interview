@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xn8J5o7bHYbVi5MeZwEMN5f2eqNTkk1bYcxd1X3m4L/ytZ9KyFLdfRhP7feBWMgYFfwupE/K7zbmFMYtd8TYog==",
+  "success": true,
+  "projectFilePath": "D:\\Deepak kumar\\Deepak\\Interview practice\\CSharp Concepts(Deepak)\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
